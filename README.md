@@ -1,7 +1,3 @@
-_This document is intended to be a template for working groups established by the TAC, to be used as the_ [_README.md_](http://README.md) _file in its repository. All items in italics are descriptions of what context should be there; it is intended to be replaced by content. It is modeled off the_ [_CNCF Serverless WG_](https://github.com/cncf/wg-serverless)_._
-
-_The intention is that each WG has its own GitHub repo under the_ [_ASWF organization_](https://github.com/AcademySoftwareFoundation)_._
-
 _Open Pipeline Working Group_
 ===============
 
@@ -19,11 +15,9 @@ Goals of the WG are:
 5.  _Discuss and share possible studio scenarios and use-cases for an open M&E pipeline_
 
 
-\_Non-goals are things that the working group are intentionally choosing not to do, the things not expected to change due to the working groups efforts, or the subject matter areas that the working groups doesn’t want to address at this time. \_
-
 Non-goals of the WG are:
 
-1.  _WG should not dive into writing any particular pipeline implementation and DCC integrations._
+1.  _WG should not dive into writing any particular pipeline implementation and DCC integrations at the moment._
 
 
 The TAC member sponsor of this working group is `_TAC sponsor name_`
@@ -35,15 +29,12 @@ Deliverables
 *   Documented and vetted Taxonomy / Pipeline glossary
 
 
-
 Communication
 -------------
 
 This WG communicates on the following channels:
 
-*   _link to mailing list_
 *   [ASWF Slack #pipeline channel](https://academysoftwarefdn.slack.com/archives/C02DA82MGRJ)
-*   _any other channels_ ...
 
 Meetings
 --------
